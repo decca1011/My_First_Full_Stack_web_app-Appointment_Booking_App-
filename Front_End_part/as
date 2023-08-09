@@ -1,0 +1,17 @@
+my-appointment-booking-app/
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+├── backend/
+│   ├── controllers/
+│   │   ├── userController.js
+│   │   ├── editController.js
+│   ├── models/
+│   │   ├── user.js
+│   ├── routes/
+│   │   ├── userRoutes.js
+│   ├── util/
+│   │   ├── database.js
+│   ├── app.js
+└── package.json
